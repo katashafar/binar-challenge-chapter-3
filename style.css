@@ -289,42 +289,6 @@ a:hover {
     background-size: cover;
 }
 
-.skull {
-  display: flex;
-  padding-left: 15rem;
-  padding-top: 5rem;
-}
-
-.form-floating {
-  display: inline-flex;
-  width: 100%;
-}
-
-.form-floating input {
-  max-width: 55%;
-  border-color: rgba(0, 128, 0, 0.25);
-}
-
-.page-footer {
-  padding-top: 7rem;
-  max-width: 90%;
-  margin-left: 5%;
-  align-items: center;
-}
-
-.footer-menu {
-  margin-left: 10%;
-  padding-left: 10%;
-}
-
-.vertical-footer-bottom {
-  display: flex;
-  position: absolute;
-  top: 40vh;
-  width: 97vw;
-  justify-content: center;
-}
-
 .page-2 {
   margin-left: 50px;
   margin-right: 0;
