@@ -281,8 +281,7 @@ a:hover {
   }
   
 
-#quotes.has-img-bg {
-    overflow: hidden;
+#quotes {
     background-position: center;
     height: 200vh;
     width: 100%;
@@ -370,4 +369,9 @@ a:hover {
 .btn-subs {
   width: 250px;
   height: 55px;
+}
+
+.text-subs{
+  font-size: 12px;
+  font-family: "Open Sans";
 }
