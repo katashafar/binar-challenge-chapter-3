@@ -284,7 +284,8 @@ a:hover {
 #quotes.has-img-bg {
     overflow: hidden;
     background-position: center;
-    height: 150vh;
+    height: 200vh;
+    width: 100%;
     background: url(assets/newsletter.png);
     background-size: cover;
 }
@@ -362,7 +363,11 @@ a:hover {
   margin-top: 150px;
 }
 
-.text-end {
-  color: #fff;
-  font-family: "Bebas Neue";
+.form-input {
+  width: 500px;
+}
+
+.btn-subs {
+  width: 250px;
+  height: 55px;
 }
