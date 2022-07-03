@@ -375,3 +375,9 @@ a:hover {
   font-size: 12px;
   font-family: "Open Sans";
 }
+
+.text-score {
+  font-size: 12px;
+  font-family: "Open Sans";
+  margin: 0;
+}
